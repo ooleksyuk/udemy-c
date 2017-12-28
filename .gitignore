@@ -34,3 +34,4 @@
 *.swp
 .DS_Store
 *.xcodeproj
+*.c.swp
